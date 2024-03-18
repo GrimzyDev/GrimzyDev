@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @GrimzyDev!
+- 👀 I’m interested in Godot.
+- 🌱 I’m currently learning C#.
